@@ -1,9 +1,5 @@
 function Home() {
-  return <h1>Te amo! ❤️</h1>;
-}
-
-function jorge() {
-  teste;
+    return <h1>Te amo! ❤️</h1>;
 }
 
 export default Home;
